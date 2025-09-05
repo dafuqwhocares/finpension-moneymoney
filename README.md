@@ -17,7 +17,7 @@ Diese Web Banking Extension ermöglicht den Zugriff auf die Portfolios bei Finpe
 
 ## Aktuelle Einschränkungen
 
-- Sessions werden derzeit nicht persistiert. Das bedeutet, dass beim Start jeder neuen Sitzung erneut ein SMS-Code eingegeben werden muss. Unterstützung beim Implementieren einer sicheren Token-Persistierung ist willkommen.
+- Sessions werden derzeit nicht persistiert. Das bedeutet, dass beim Start jeder neuen Sitzung erneut ein SMS-Code eingegeben werden muss.
 
 ## Installation und Nutzung
 
