@@ -14,8 +14,6 @@ Diese Web Banking Extension ermöglicht den Zugriff auf die Portfolios bei Finpe
   Der aktuelle Cash-Bestand (liquide Mittel) des Kontos wird angezeigt.
 - **Gesamter Kontostand:**  
   Der gesamte aktuelle Wert des Portfolios wird ausgegeben.
-- **Wichtiger Hinweis zu 2FA:**  
-  Für die Nutzung dieser Extension muss die Zwei-Faktor-Authentifizierung (2FA) per SMS bei Finpension deaktiviert sein. Die 2-Faktor-Authentifizerung wird derzeit noch nicht unterstützt.
 
 ## Aktuelle Einschränkungen
 
